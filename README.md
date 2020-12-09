@@ -1,6 +1,6 @@
 # GitHub Docker Action Sample #
 
-This is the sample GitHub Action built in Docker container.
+This is the sample GitHub Action built in Docker container
 
 
 ## Inputs ##
